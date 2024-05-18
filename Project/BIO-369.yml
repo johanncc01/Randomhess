@@ -1,0 +1,16 @@
+name: BIO-369
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipykernel
+  - jupyter_client[version='<8']
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - pip
+  - python
+  - scipy
+  - biopython
+  - ipython
